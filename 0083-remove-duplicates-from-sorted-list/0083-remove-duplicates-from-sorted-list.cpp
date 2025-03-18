@@ -14,13 +14,13 @@ public:
         if(head==nullptr){
             return nullptr;
         }
-        ListNode* current=head;
-        while(current->next!=nullptr){
-            if(current->val==current->next->val){
-                current->next=current->next->next;
+        ListNode* temp=head;
+        while(temp->next!=nullptr){
+            if(temp->val==temp->next->val){
+                temp->next=temp->next->next;
             }
             else{
-                current=current->next;
+                temp=temp->next;
             }
         }
         return head;
