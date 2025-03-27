@@ -9,7 +9,7 @@ public:
             i++;
         }
         if (i < n && (s[i] =='+' || s[i] == '-')) {
-            if (i + 1 < n && (s[i] == s[i + 1])) {
+            if (i + 1< n && (s[i] == s[i + 1])) {
                 return 0;  
             }
 
