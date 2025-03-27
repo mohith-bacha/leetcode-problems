@@ -5,7 +5,7 @@ public:
         int sign = 1;
         long ans =0;
         int n =s.length();
-        while (i < n && s[i] == ' ') {
+        while (i < n && s[i] ==' ') {
             i++;
         }
         if (i < n && (s[i] =='+' || s[i] == '-')) {
