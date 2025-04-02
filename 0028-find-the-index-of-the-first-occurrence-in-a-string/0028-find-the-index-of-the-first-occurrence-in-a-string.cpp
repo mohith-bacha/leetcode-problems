@@ -6,7 +6,7 @@ public:
         if(n<m){
             return -1;
         }
-        for (int i =0; i<= haystack.length() - needle.length(); ++i) {
+        for (int i =0; i<=haystack.length() - needle.length(); ++i) {
             if (haystack.substr(i, needle.length()) == needle) {
                 return i;
             }
