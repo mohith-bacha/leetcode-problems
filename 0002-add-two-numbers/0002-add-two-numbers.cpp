@@ -1,6 +1,6 @@
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+    ListNode* addTwoNumbers(ListNode* l1,ListNode* l2) {
         ListNode* l3 = new ListNode(0);
         ListNode* head = l3;
         int carry = 0;
