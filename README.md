@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/mohith-bacha/leetcode-problems/tree/master/0396-rotate-function) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohith-bacha/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1971-incremental-memory-leak](https://github.com/mohith-bacha/leetcode-problems/tree/master/1971-incremental-memory-leak) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mohith-bacha/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String
@@ -57,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/mohith-bacha/leetcode-problems/tree/master/1184-car-pooling) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohith-bacha/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
