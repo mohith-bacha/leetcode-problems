@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mohith-bacha/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3396-valid-word](https://github.com/mohith-bacha/leetcode-problems/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/mohith-bacha/leetcode-problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
 |  |
