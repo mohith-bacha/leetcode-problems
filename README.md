@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mohith-bacha/leetcode-problems/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/mohith-bacha/leetcode-problems/tree/master/0396-rotate-function) |
 | [1184-car-pooling](https://github.com/mohith-bacha/leetcode-problems/tree/master/1184-car-pooling) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mohith-bacha/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mohith-bacha/leetcode-problems/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/mohith-bacha/leetcode-problems/tree/master/0396-rotate-function) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohith-bacha/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1971-incremental-memory-leak](https://github.com/mohith-bacha/leetcode-problems/tree/master/1971-incremental-memory-leak) |
@@ -63,4 +65,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohith-bacha/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohith-bacha/leetcode-problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/mohith-bacha/leetcode-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
