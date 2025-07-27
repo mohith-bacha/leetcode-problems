@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/mohith-bacha/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/mohith-bacha/leetcode-problems/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/mohith-bacha/leetcode-problems/tree/master/0396-rotate-function) |
 | [1184-car-pooling](https://github.com/mohith-bacha/leetcode-problems/tree/master/1184-car-pooling) |
@@ -79,4 +80,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mohith-bacha/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/mohith-bacha/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/mohith-bacha/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
