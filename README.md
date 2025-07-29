@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohith-bacha/leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/mohith-bacha/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mohith-bacha/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/mohith-bacha/leetcode-problems/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohith-bacha/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohith-bacha/leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/mohith-bacha/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [1184-car-pooling](https://github.com/mohith-bacha/leetcode-problems/tree/master/1184-car-pooling) |
 | [1971-incremental-memory-leak](https://github.com/mohith-bacha/leetcode-problems/tree/master/1971-incremental-memory-leak) |
 ## Prefix Sum
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mohith-bacha/leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/mohith-bacha/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mohith-bacha/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohith-bacha/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
