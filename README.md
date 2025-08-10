@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/mohith-bacha/leetcode-problems/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mohith-bacha/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0396-rotate-function](https://github.com/mohith-bacha/leetcode-problems/tree/master/0396-rotate-function) |
+| [0496-next-greater-element-i](https://github.com/mohith-bacha/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1184-car-pooling](https://github.com/mohith-bacha/leetcode-problems/tree/master/1184-car-pooling) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mohith-bacha/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohith-bacha/leetcode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/mohith-bacha/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0900-reordered-power-of-2](https://github.com/mohith-bacha/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohith-bacha/leetcode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mohith-bacha/leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/mohith-bacha/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mohith-bacha/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
 |  |
@@ -118,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/mohith-bacha/leetcode-problems/tree/master/0900-reordered-power-of-2) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/mohith-bacha/leetcode-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
