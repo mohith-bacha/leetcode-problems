@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/mohith-bacha/leetcode-problems/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/mohith-bacha/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1184-car-pooling](https://github.com/mohith-bacha/leetcode-problems/tree/master/1184-car-pooling) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohith-bacha/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mohith-bacha/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohith-bacha/leetcode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mohith-bacha/leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mohith-bacha/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0900-reordered-power-of-2](https://github.com/mohith-bacha/leetcode-problems/tree/master/0900-reordered-power-of-2) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohith-bacha/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohith-bacha/leetcode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mohith-bacha/leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mohith-bacha/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/mohith-bacha/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [1184-car-pooling](https://github.com/mohith-bacha/leetcode-problems/tree/master/1184-car-pooling) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohith-bacha/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -125,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/mohith-bacha/leetcode-problems/tree/master/0496-next-greater-element-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohith-bacha/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
