@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/mohith-bacha/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohith-bacha/leetcode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mohith-bacha/leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mohith-bacha/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/mohith-bacha/leetcode-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/mohith-bacha/leetcode-problems/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/mohith-bacha/leetcode-problems/tree/master/0396-rotate-function) |
+| [0900-reordered-power-of-2](https://github.com/mohith-bacha/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/mohith-bacha/leetcode-problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1971-incremental-memory-leak](https://github.com/mohith-bacha/leetcode-problems/tree/master/1971-incremental-memory-leak) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mohith-bacha/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/mohith-bacha/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 | [1184-car-pooling](https://github.com/mohith-bacha/leetcode-problems/tree/master/1184-car-pooling) |
 ## Heap (Priority Queue)
 |  |
@@ -78,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/mohith-bacha/leetcode-problems/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/mohith-bacha/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 ## Number Theory
 |  |
 | ------- |
@@ -110,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mohith-bacha/leetcode-problems/tree/master/0231-power-of-two) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/mohith-bacha/leetcode-problems/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
