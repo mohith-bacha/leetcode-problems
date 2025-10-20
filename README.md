@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1184-car-pooling](https://github.com/mohith-bacha/leetcode-problems/tree/master/1184-car-pooling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohith-bacha/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/mohith-bacha/leetcode-problems/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/mohith-bacha/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohith-bacha/leetcode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mohith-bacha/leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mohith-bacha/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/mohith-bacha/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mohith-bacha/leetcode-problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3396-valid-word](https://github.com/mohith-bacha/leetcode-problems/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/mohith-bacha/leetcode-problems/tree/master/3617-find-the-original-typed-string-i) |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/mohith-bacha/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [1184-car-pooling](https://github.com/mohith-bacha/leetcode-problems/tree/master/1184-car-pooling) |
 | [1971-incremental-memory-leak](https://github.com/mohith-bacha/leetcode-problems/tree/master/1971-incremental-memory-leak) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/mohith-bacha/leetcode-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
