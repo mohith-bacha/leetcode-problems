@@ -1,6 +1,6 @@
 class Solution {
  public:
-  string addBinary(string a, string b) {
+  string addBinary(string a, string b){
     string ans;
     int carry=0;
     int i=a.length()-1;
