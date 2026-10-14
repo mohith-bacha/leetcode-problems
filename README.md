@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohith-bacha/leetcode-problems/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/mohith-bacha/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/mohith-bacha/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/mohith-bacha/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohith-bacha/leetcode-problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mohith-bacha/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mohith-bacha/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/mohith-bacha/leetcode-problems/tree/master/0496-next-greater-element-i) |
